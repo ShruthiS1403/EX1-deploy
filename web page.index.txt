@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Webpage Creation using HTML tags </title>
+</head>
+<body style="size:1000px;height:960px;background:url('1.jpeg') no-repeat; background-size:
+cover">
+<h1 align="center"> DISRUPTIVE TECHNOLOGIES</h1>
+<div align="center">
+<input type="text">
+<button>Search</button>
+</div>
+<hr>
+<section>
+<div>
+<div>
+<h1> <a href="https://www.javatpoint.com/artificial-intelligencetutorial">Artificial Intelligence</a></h1>
+<p align="center"> <img src="ai.jpg" alt="Image not found" height="15%" width="15%"> </img> </p>
+<p style="color:white; font-family:sans-serif;"><b> Artificial intelligence (AI)
+</b> is intelligence demonstrated by machines, as opposed to the natural intelligence
+displayed by animals including humans. AI research has been defined as the field of study of
+intelligent agents, which refers to any system that perceives its environment and takes actions
+that maximize its chance of achieving its goals. The term <abbr title="Artificial
+SANTHOSH KUMAR B - 71812101221
+intelligence">"AI"</abbr> had previously been used to describe machines that mimic and
+display "human" cognitive skills that are associated with the human mind, such as "learning" and "problem-solving". This definition has since been rejected by major AI researchers who
+now describe AI in terms of rationality and acting rationally, which does not limit how
+intelligence can be articulated.</p>
+</div>
+</div>
+</section>
+</body>
+</html>
